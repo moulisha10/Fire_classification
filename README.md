@@ -1,4 +1,5 @@
 # Fire_classification
+Full code: https://drive.google.com/file/d/1vC3rJY8zE2K5mOgJ8D3o8PEG-4b602eS/view?usp=sharing
 Classification of Fire Types in India Using MODIS Satellite Data (2021–2023)
 
 India witnesses various types of fire incidents annually, including forest fires, agricultural burning, volcanic activity, and other thermal anomalies. Accurate identification of fire sources is crucial for timely disaster response, environmental monitoring, and resource management. The MODIS sensors aboard NASA’s Terra and Aqua satellites provide reliable, near real-time thermal anomaly data globally, including for India.
